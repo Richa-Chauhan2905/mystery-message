@@ -9,15 +9,23 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/langchain": "^1.0.24",
+    "@ai-sdk/openai": "^2.0.21",
     "@react-email/components": "^0.5.1",
+    "ai": "^5.0.24",
     "bcryptjs": "^3.0.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.541.0",
     "mongoose": "^8.18.0",
     "next": "15.5.0",
     "next-auth": "^4.24.11",
+    "openai": "^5.15.0",
     "prettier": "^3.6.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "resend": "^6.0.1",
+    "tailwind-merge": "^3.3.1",
     "zod": "^4.1.0"
   },
   "devDependencies": {
@@ -29,6 +37,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.0",
     "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.7",
     "typescript": "^5"
   }
 }
