@@ -99,7 +99,7 @@ const page = () => {
               Welcome Back to Mystery Message
             </h1>
             <p className="text-gray-600 text-sm md:text-base">
-              Sign in to continue your secret conversations
+              Sign up to start your anonymous adventure
             </p>
           </div>
           <Form {...form}>
